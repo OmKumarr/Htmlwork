@@ -1,0 +1,23 @@
+.MovieDuniyaLayout{
+    background-image: url("Mysvgimage.svg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    padding-top: 0;
+    color: aliceblue;
+}
+.header{
+    width: 100px;
+    height: 15px;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+}
+.firtSection{
+    display: flex;
+}
